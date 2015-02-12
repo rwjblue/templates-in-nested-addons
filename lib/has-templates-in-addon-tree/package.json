@@ -1,0 +1,9 @@
+{
+  "name": "has-templates-in-addon-tree",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "^0.6.0"
+  }
+}
